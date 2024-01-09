@@ -9,6 +9,7 @@ Mi enfoque proactivo y mi capacidad de aprendizaje rápido son características 
 
 Estoy emocionado por la oportunidad de contribuir a proyectos innovadores y formar parte de un equipo dinámico. ¡Conéctate conmigo y exploremos cómo puedo aportar valor a tu empresa!
 
+
 Portfolio💼 - https://briangomez.netlify.app/#inicio
 Git Hub 📁 - https://github.com/BGBrianGomez
 Email 📧 - brianegomez02@gmail.com
